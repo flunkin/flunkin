@@ -17,6 +17,3 @@
 # 📝Code Editor i use
 [![Visual Studio](https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5C2D91.svg?&logo=visualstudio&logoColor=white)](#)
 [![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](#)
-
-# ⏳ Terminal i use
-[![GNOME Terminal](https://img.shields.io/badge/GNOME%20Terminal-241F31?logo=gnometerminal&logoColor=fff)](#)
