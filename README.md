@@ -1,7 +1,3 @@
-# 🗂️ Projects im working
-- Bluetooth device emulator
-- Fake Wi-Fi Connection  Spoofer
-
 # 💻 Languages
 [![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](#)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
