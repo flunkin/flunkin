@@ -10,4 +10,5 @@
 [![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)](#)
 [![Debian](https://img.shields.io/badge/Debian-A81D33?logo=debian&logoColor=fff)](#)
 
+#
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Flunkin&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
